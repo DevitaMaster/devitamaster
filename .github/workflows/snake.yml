@@ -1,1 +1,27 @@
+name: Generate Snake Game
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Isso configura para rodar uma vez ao dia
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Generate Snake Game
+        uses: Platane/snk@master
+        with:
+          github_user_name: DevitaMaster
+          outputs: dist/snake.svg
+
+      - name: Push Snake Game to the output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
 
