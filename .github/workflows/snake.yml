@@ -4,6 +4,8 @@
 
 # GitHub Action para gerar uma animação de cobrinha consumindo suas contribuições.
 
+# GitHub Action para gerar uma animação de cobrinha consumindo suas contribuições.
+
 name: Generate Snake  # Nome do workflow
 
 # Define quando a ação será executada.
@@ -59,3 +61,4 @@ jobs:
           commit_message: Update snake animations  # Mensagem do commit para registrar a atualização
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Token de autenticação para acessar o repositório
+
