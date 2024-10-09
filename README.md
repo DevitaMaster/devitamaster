@@ -1,8 +1,9 @@
-## Olá! Eu me chamo Fábio Devita, analista de sistemas, gestor de projetos e especialista em segurança da informação e infraestrutura de TI 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋👋;+Eu+me+chamo+Fábio+Devita!;" />
+</h1>
 
-
-- 🔭 Sou um profissional com mais de 12 anos de experiência em gestão de projetos, administração de Data Centers, redes e implantação de sistemas ERP, com forte atuação em infraestrutura e segurança da informação.
-- 🏥 Trabalhei em ambientes hospitalares de alta complexidade, onde atuei diretamente em diversos projetos de implantação de Sistemas ERPs, Infraestrutura de Redes e DataCenters.
+- 🎒 Sou formado em Análise e Desenvolvimento de Sistemas e possuo pós-graduação em Desenvolvimento de Aplicações Java Web.
+- 👨‍💻 Analista com mais de 12 anos de experiência em gestão de projetos, implantação de sistemas e administração de Data Centers e redes.
 - 🧑‍💻Atualmente estou estudando Analise de Dados com Power BI.
 
  <div style="display: inline_block">
@@ -24,7 +25,7 @@
 </div>
 
 ### 🐍 Snake Game eating my commits
-![Snake animation](https://github.com/DevitaMaster/devitamaster/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/DevitaMaster/devitamaster/blob/output/github-contribution-grid-snake.gif)
 
 
 
