@@ -24,8 +24,9 @@
   
 </div>
 
-### 🐍 Snake Game eating my commits
+### Meus commits
 ![snake gif](https://github.com/DevitaMaster/devitamaster/blob/output/github-contribution-grid-snake.gif)
+
 
 
 
