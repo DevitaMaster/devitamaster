@@ -65,7 +65,6 @@ Mais do que demonstrar funcionalidades, o projeto busca evidenciar a engenharia 
 **Conheça o projeto:**
 
 - [Portfólio técnico MERAXES](https://github.com/DevitaMaster/portfolio-meraxes-plataforma-de-gestao-automotiva)
-- [Repositório do sistema MERAXES](https://github.com/DevitaMaster/loja-de-automoveis-base-netlify-supabase)
 
 ## Tecnologias e ferramentas
 
