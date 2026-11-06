@@ -23,7 +23,7 @@
 
 ## 👨🏽‍💼 Sobre mim
 
-Profissional de Tecnologia da Informação com **15 anos de experiência**, atuando na interseção entre tecnologia, processos de negócio e engenharia de soluções.
+Profissional de Tecnologia da Informação com **15 anos de experiência**, pós-graduado em desenvolvimento de aplicações web, atuando na interseção entre tecnologia, processos de negócio e engenharia de soluções.
 
 Minha trajetória envolve arquitetura e sustentação de sistemas corporativos, implantação de ERP, integração de aplicações, administração de ambientes de infraestrutura e condução de projetos tecnológicos.
 
